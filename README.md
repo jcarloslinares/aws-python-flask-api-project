@@ -82,10 +82,10 @@ $>sls wsgi serve
 
 Test from terminal:
 ```
-curl -X GET \
-  'http://localhost:5000/hello' \
-  --header 'Accept: */*' \
-  --header 'User-Agent: Thunder Client (https://www.thunderclient.com)'
+$> curl -X GET   'http://localhost:5000/hello'   --header 'Accept: */*'
+{
+  "message": "Hello from path!"
+}
 ``` 
 
 ## Possible issues and solutions:
