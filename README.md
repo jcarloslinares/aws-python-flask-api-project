@@ -14,7 +14,7 @@ v14.19.1
 Python
 ```
 $>python3 --version
-Python 3.7.3
+Python 3.9.13
 ```
 
 Serverless
