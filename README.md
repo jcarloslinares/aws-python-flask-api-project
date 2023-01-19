@@ -88,3 +88,10 @@ curl -X GET \
   --header 'User-Agent: Thunder Client (https://www.thunderclient.com)'
 ``` 
 
+## Possible issues and solutions:
+
+Python Versions issues  
+https://opensource.com/article/19/5/python-3-default-mac
+
+Flask module not found on VS Code
+https://stackoverflow.com/questions/65786221/import-flask-could-not-be-resolved-from-source-pylance-reportmissingmodulesou
